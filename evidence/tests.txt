@@ -1,0 +1,26 @@
+test_demo (test_cli.CliTests.test_demo) ... ok
+test_exit_outcomes (test_cli.CliTests.test_exit_outcomes) ... ok
+test_failed_read_write_flush_and_short_write (test_cli.CliTests.test_failed_read_write_flush_and_short_write) ... ok
+test_input_read_is_bounded (test_cli.CliTests.test_input_read_is_bounded) ... ok
+test_output_limit_is_incomplete_exit_even_in_demo (test_cli.CliTests.test_output_limit_is_incomplete_exit_even_in_demo) ... ok
+test_ancestor_checks_independent (test_core.CoreTests.test_ancestor_checks_independent) ... ok
+test_api_bounds_and_boundary_acceptance (test_core.CoreTests.test_api_bounds_and_boundary_acceptance) ... ok
+test_duplicate_groups_nodes_features (test_core.CoreTests.test_duplicate_groups_nodes_features) ... ok
+test_exact_types_without_coercion (test_core.CoreTests.test_exact_types_without_coercion) ... ok
+test_execute_bit_is_only_a_predicate (test_core.CoreTests.test_execute_bit_is_only_a_predicate) ... ok
+test_fixed_oracles (test_core.CoreTests.test_fixed_oracles) ... ok
+test_fsgid_zero_is_ordinary_group (test_core.CoreTests.test_fsgid_zero_is_ordinary_group) ... ok
+test_json_boundaries (test_core.CoreTests.test_json_boundaries) ... ok
+test_later_invalid_not_masked (test_core.CoreTests.test_later_invalid_not_masked) ... ok
+test_no_host_capabilities (test_core.CoreTests.test_no_host_capabilities) ... ok
+test_no_mutation_and_json_equivalence (test_core.CoreTests.test_no_mutation_and_json_equivalence) ... ok
+test_output_bound_and_escaped_data (test_core.CoreTests.test_output_bound_and_escaped_data) ... ok
+test_owner_precedes_group_and_all_required_bits (test_core.CoreTests.test_owner_precedes_group_and_all_required_bits) ... ok
+test_shapes_identifiers_and_kind (test_core.CoreTests.test_shapes_identifiers_and_kind) ... ok
+test_unsupported_context (test_core.CoreTests.test_unsupported_context) ... ok
+test_zero_mode_and_special_ancestor (test_core.CoreTests.test_zero_mode_and_special_ancestor) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.012s
+
+OK

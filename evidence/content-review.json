@@ -1,0 +1,7 @@
+{
+  "scope": "bounded task source/config/evidence common credential patterns plus manual review",
+  "files": 24,
+  "flagged_files": 0,
+  "dedicated_secret_scanner": false,
+  "history_scan": false
+}

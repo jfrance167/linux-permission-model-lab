@@ -1,0 +1,34 @@
+[
+  {
+    "path": "permission_lab/__init__.py",
+    "sha256": "bd1242011e2915489b32a968f76f4bbaa4fafea19374b22b5c49c612f6071017"
+  },
+  {
+    "path": "permission_lab/__main__.py",
+    "sha256": "c587f9bd6ed3d2e9a432119784f8e3b4fd5595f520ef87fb4afdd26c31e98415"
+  },
+  {
+    "path": "permission_lab/core.py",
+    "sha256": "de340c6f4f54912b7405b9dc4552d8370510eef1400d9639996c293ab63162fb"
+  },
+  {
+    "path": "permission_lab/fixtures.py",
+    "sha256": "41206c81bc5a1667dc993314395d9ea438afb48cd7f0118892c787440cfe7637"
+  },
+  {
+    "path": "tests/test_cli.py",
+    "sha256": "bac8b13ad46fa26c41ea5656c23a00aa7b9df764b8a9d43d8e6381000b368d53"
+  },
+  {
+    "path": "tests/test_core.py",
+    "sha256": "8aa2086e3b88c2f6ef0979b78e0f089d2a080e6bc939ed563de5cd4a3057c7b1"
+  },
+  {
+    "path": "tools/check_mutations.py",
+    "sha256": "0687f4a79e6d0e7f96931747092b06dd41b2b1a9e815645768d6981dd5f78855"
+  },
+  {
+    "path": "tools/verify_workflows.py",
+    "sha256": "db2151ff5b5fd6ba0af62fcf4d4728009b978c94c7b32a5a45145468790fbbc2"
+  }
+]

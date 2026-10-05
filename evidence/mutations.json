@@ -1,0 +1,14 @@
+{
+  "mutations": [
+    {
+      "mutation": "union_of_all_classes",
+      "detected": true
+    },
+    {
+      "mutation": "ignoring_ancestor_search",
+      "detected": true
+    }
+  ],
+  "restored_tests_pass": true,
+  "scope": "two in-memory faults; no source mutation"
+}
